@@ -56,3 +56,6 @@ package.json
 # exclude ide
 /.vscode/
 .code-workspace
+
+# exclude pgdata
+/pgdata/
